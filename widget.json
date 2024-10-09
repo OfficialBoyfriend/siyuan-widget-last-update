@@ -1,16 +1,16 @@
 {
-  "name": "widget-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/widget-sample",
-  "version": "0.0.3",
+  "name": "siyuan-widget-last-update",
+  "author": "Oleander",
+  "url": "https://github.com/OfficialBoyfriend/siyuan-widget-last-update",
+  "version": "0.0.1",
   "minAppVersion": "2.8.8",
   "displayName": {
-    "default": "Widget Sample",
-    "zh_CN": "挂件示例"
+    "default": "Last Update",
+    "zh_CN": "最近更新"
   },
   "description": {
-    "default": "This is a widget sample",
-    "zh_CN": "这是一个挂件示例"
+    "default": "This is a widget that displays the last 15 documents updated",
+    "zh_CN": "这挂件用于显示最近更新的 15 个文档"
   },
   "readme": {
     "default": "README.md",
@@ -20,11 +20,9 @@
     "openCollective": "",
     "patreon": "",
     "github": "",
-    "custom": [
-      "https://ld246.com/sponsor"
-    ]
+    "custom": []
   },
   "keywords": [
-    "sample", "示例"
+    "date"
   ]
 }
